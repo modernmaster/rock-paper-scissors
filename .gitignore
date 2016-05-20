@@ -1,0 +1,19 @@
+target
+.settings
+.classpath
+.project
+.vlt
+.checkstyle
+.pmd
+.pmdruleset.xml
+node_modules
+.idea
+
+dist
+docs
+#ignore IDEA 
+*.iml
+
+#for Jenkins
+.repository/
+npm-debug.log
