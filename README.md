@@ -13,6 +13,3 @@ A rock paper scissors implementation
 [coverage]: https://codeclimate.com/github/modernmaster/rock-paper-scissors/coverage
 [issues]: https://codeclimate.com/github/modernmaster/rock-paper-scissors
 
-
-
-[![Issue Count](https://codeclimate.com/github/modernmaster/rock-paper-scissors/badges/issue_count.svg)](https://codeclimate.com/github/modernmaster/rock-paper-scissors)
